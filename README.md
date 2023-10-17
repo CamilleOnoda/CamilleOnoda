@@ -1,13 +1,13 @@
 👋Hello! 
 
-🌱I'm currently learning computer science and programming through Harvard University's free courses: CS50 Introduction to Computer Science and CS50 Introduction to Programming with Python.
-   I am also gaining solid foundations in Python through the book 'Python Crash Course' written by Eric Matthes.
+🌱I'm currently learning computer science and programming through Harvard University's free courses: <a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science" target="_blank" rel="noopener noreferrer">CS50 Introduction to Computer Science</a> and <a href="https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python" target="_blank" rel="noopener noreferrer">CS50 Introduction to Programming with Python</a> (working on my final project with Python).
 
-👀My goal is to hone my programming skills, tackle complex problem-solving, and contribute to open-source projects. 
-   I'm excited about collaborating with fellow computer enthusiasts and giving back to the GitHub community.
+I started learning HTML and CSS fundamentals with the excellent courses provided by <a href="https://teamtreehouse.com/" target="_blank" rel="noopener noreferrer">Team Treehouse</a>.
 
-📫Feel free to reach out to me if you have any questions, suggestions, or if you'd like to collaborate on interesting projects.
+<p>I also love to share what I learn and help others, this is why I started a blog, <a href="https://codecraftingchronicles.substack.com/" target="_blank" rel="noopener noreferrer">Code Crafting Chronicles</a>. 
+I want to document this journey and hold myself accountable.</p>
 
+Feel free to <a href="mailto: info@camilleonoda.com">reach out</a> if you find anything interesting!
 
 
 
