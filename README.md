@@ -9,6 +9,7 @@ I started learning HTML and CSS fundamentals with the courses provided by <a hre
 I want to document this journey and keep myself accountable.</p>
 
 Feel free to <a href="mailto: info@camilleonoda.com">reach out</a> if you find anything interesting!
+You can also learn more about me via my <a href="https://linkedin.com/in/camilleonoda">LinkedIn</a> page.
 
 
 
