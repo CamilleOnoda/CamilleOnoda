@@ -16,6 +16,7 @@
   <li>Ruby</li>
   <li>Ruby on Rails</li>
   <li>React</li>
+</ul>
   
 <p>I also love to share what I learn and help others with my blog: <a href="https://codecraftingchronicles.substack.com/" target="_blank" rel="noopener noreferrer">Code Crafting Chronicles</a>. 
 I share what I am learning, the programs I build, and provide updates on the coding challenges I engage with on a weekly basis.</p>
