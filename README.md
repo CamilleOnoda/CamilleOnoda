@@ -10,6 +10,8 @@
   <li>html</li>
   <li>CSS</li>
   <li>JavaScript</li>
+  <li>Python</li>
+  <li>Flask</li>
   <li>SQL</li>
   <li>NodeJS</li>
   <li>MongoDB
