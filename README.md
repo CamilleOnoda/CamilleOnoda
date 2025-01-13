@@ -1,7 +1,8 @@
 Multilingual professional leveraging AWS Cloud Practitioner certification and Python expertise (PCEP certified) to transition into backend development. 
 
 Combining strong analytical skills from translation background with technical capabilities in programming.
-Currently advancing backend development skills through intensive project-based learning.
+
+Currently advancing backend development skills through intensive project-based learning (<a href="https://www.boot.dev/">Boot.dev - backend development bootcamp</a>).
 
 Particularly interested in roles that can benefit from my unique blend of technical and cross-cultural communication abilities.
 
